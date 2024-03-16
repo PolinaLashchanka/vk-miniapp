@@ -13,6 +13,6 @@ npm run start
 ***
 #### Technological stack - `VKUI, React, TypeScript, React Hook Form, Yup, TanStack Query, Axios`
 ***
-##### *[Here]() you will find a link to my project*
+##### *[Here](https://vk.com/app51874632) you will find a link to my project*
 
 ###### This project was created as part of a test assignment for an internship at `VKontakte`
